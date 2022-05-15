@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Card } from 'src/app/models/card';
 import { Root } from 'src/app/models/slip';
-import { SlipService } from 'src/app/servise/slip.service';
+import { SlipService } from 'src/app/service/slip.service';
 
 @Component({
   selector: 'app-home',
